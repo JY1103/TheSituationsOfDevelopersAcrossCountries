@@ -4,7 +4,7 @@
 The libraries needed for this project are simply numpy, pandas and matplotlib. Moreover, the python 3.6.5 is used here.
 
 ### 2. Project Motivation
-The purpose of this project is to figure out how the number of developers are distributed over the world and whether their situations (e.g, salary, job satisfaction and female developer percentage) vary across diffrent acountries.
+The purpose of this project is to figure out how developers are distributed over the world and analyze the situations (e.g, salary, job satisfaction and female developer percentage) of developers across diffrent acountries.
 
 ### 3. File Descriptions
 There are totally 3 files in this project.
