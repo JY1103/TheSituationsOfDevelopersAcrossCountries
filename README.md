@@ -1,5 +1,7 @@
 # Where Do You Want To Work As A Developer?
 
+The analysis result is posted on medium and you can find the post link [here](https://medium.com/@jiayi.chen10112070/where-do-you-want-to-work-as-a-developer-44442d5c5c3d).
+
 ### 1. Installation
 The libraries needed for this project are simply numpy, pandas and matplotlib. Moreover, the python 3.6.5 is used here.
 
